@@ -1,0 +1,110 @@
+/*!
+ * Bootstrap - Zanda
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+h1 {
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+	color: black;
+	margin-top: 5px;
+	letter-spacing: 2px;
+}
+
+.sub-title{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	margin-top: 5px;
+	color: gray;
+	letter-spacing: 4px;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+nav ul li{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	list-style: none;
+	font-size: 14px;
+	text-align: right;
+	float: right;
+	padding-left: 30px;
+	letter-spacing: 1px;
+}
+.col-md-8 {
+	color: black;
+
+}
+
+nav ul{
+	margin-top: 165px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+h3{
+	text-align: center;
+	margin-top: 7px;
+	margin-bottom:20px;
+}
+
+h3 a{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	color: black;
+	text-decoration: none;
+	letter-spacing: 2px;
+	font-size: 12px;
+}
+
+h4{
+	ont-family: 'Raleway', Helvetica, Arial, sans-serif;
+	color: black;
+	text-decoration: none;
+	letter-spacing: 2px;
+	font-size: 12px;
+	padding-bottom: 50px;
+}
+
+a:hover{
+	text-decoration: none;
+	color: gray;
+}
+
+.color-filter {
+	-moz-transition:all 0.6s ease;
+	-webkit-transition:all 0.6s ease;
+	-ms-transition:all 0.6s ease;
+	-o-transition:all 0.6s ease;
+	transition:all 0.6s ease;
+	-webkit-filter:grayscale(1);
+}
+
+.color-filter:hover {
+	z-index:2;
+	-moz-box-shadow:0 0 12px rgba(0, 0, 0, 0.6);
+	-webkit-box-shadow:0 0 12px rgba(0, 0, 0, 0.6);
+	box-shadow:0 0 12px rgba(0, 0, 0, 0.6);
+	-webkit-filter:grayscale(0);
+}
+
+.footer-text{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+
+.copyright{
+	font-size: 12px;
+	line-height: 15px;
+	padding-top: 100px;
+}
+
+a{
+	color: black;
+}
+
