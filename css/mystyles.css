@@ -24,7 +24,7 @@ h1 {
     margin-bottom: 25px;
 }
 
-nav ul li{
+nav ul li {
 	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 	list-style: none;
 	font-size: 14px;
@@ -106,5 +106,45 @@ a:hover{
 
 a{
 	color: black;
+}
+
+.text{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	margin-top: 10px;
+	letter-spacing: 2px;
+	padding-bottom: 0px;
+
+}
+.myhobbies{
+	padding-bottom: 6px;
+	margin-top: 15px;
+}
+
+.back{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 14px;
+	letter-spacing: 1px;
+	padding-top: 30px;
+}
+
+.img1{
+	padding-top: 15px;
+	padding-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+	
+}
+.text1{
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	margin-top: 5px;
+	letter-spacing: 2px;
+	padding-bottom: 0px;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
